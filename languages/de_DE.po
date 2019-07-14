@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dpsg-ebersberg v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-10-28 11:45:54+0000\n"
+"Last-Translator: Simon Ellmann\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:16
+#@ dpsg-ebersberg
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Die Seite konnte leider nicht gefunden werden."
+
+#: 404.php:20
+#@ dpsg-ebersberg
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Vielleicht hilft dir ja die Suche weiter:"
+
+#: 404.php:28
+#@ dpsg-ebersberg
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:45
+#, php-format
+#@ dpsg-ebersberg
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+#@ dpsg-ebersberg
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: archive.php:39
+#, php-format
+#@ dpsg-ebersberg
+msgid "Day: %s"
+msgstr "Tag: %s"
+
+#: archive.php:42
+#, php-format
+#@ dpsg-ebersberg
+msgid "Month: %s"
+msgstr "Monat: %s"
+
+#: archive.php:45
+#, php-format
+#@ dpsg-ebersberg
+msgid "Year: %s"
+msgstr "Jahr: %s"
+
+#: archive.php:48
+#@ dpsg-ebersberg
+msgid "Asides"
+msgstr ""
+
+#: archive.php:51
+#@ dpsg-ebersberg
+msgid "Images"
+msgstr "Bilder"
+
+#: archive.php:54
+#@ dpsg-ebersberg
+msgid "Videos"
+msgstr ""
+
+#: archive.php:57
+#@ dpsg-ebersberg
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:60
+#@ dpsg-ebersberg
+msgid "Links"
+msgstr ""
+
+#: archive.php:63
+#: sidebar.php:17
+#@ dpsg-ebersberg
+msgid "Archives"
+msgstr "Archive"
+
+#: bp_widget.php:55
+#@ default
+msgid "Title:"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+#@ dpsg-ebersberg
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:36
+#: comments.php:56
+#@ dpsg-ebersberg
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37
+#: comments.php:57
+#@ dpsg-ebersberg
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38
+#: comments.php:58
+#@ dpsg-ebersberg
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:68
+#@ dpsg-ebersberg
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: content-page.php:12
+#: content-single.php:10
+#: content.php:64
+#: image.php:34
+#: image.php:78
+#: inc/template-tags.php:71
+#: inc/template-tags.php:90
+#@ dpsg-ebersberg
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: content-page.php:19
+#: content-single.php:57
+#: content.php:30
+#: image.php:60
+#@ dpsg-ebersberg
+msgid "Pages:"
+msgstr "Seiten:"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:16
+#: content-single.php:19
+#@ dpsg-ebersberg
+msgid ", "
+msgstr ""
+
+#: functions.php:48
+#@ dpsg-ebersberg
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:93
+#@ dpsg-ebersberg
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:73
+#@ dpsg-ebersberg
+msgid "Menu"
+msgstr "Menü"
+
+#: header.php:74
+#@ dpsg-ebersberg
+msgid "Skip to content"
+msgstr ""
+
+#: image.php:23
+#, php-format
+#@ dpsg-ebersberg
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: image.php:39
+#@ dpsg-ebersberg
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:40
+#@ dpsg-ebersberg
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: image.php:69
+#, php-format
+#@ dpsg-ebersberg
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:71
+#, php-format
+#@ dpsg-ebersberg
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:73
+#@ dpsg-ebersberg
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: image.php:75
+#@ dpsg-ebersberg
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: inc/extras.php:66
+#, php-format
+#@ dpsg-ebersberg
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:34
+#@ dpsg-ebersberg
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:38
+#@ dpsg-ebersberg
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:39
+#@ dpsg-ebersberg
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:44
+#@ dpsg-ebersberg
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "Ältere Einträge <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:48
+#@ dpsg-ebersberg
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "<span class=\"meta-nav\">&larr;</span> Neuere Einträge"
+
+#: inc/template-tags.php:71
+#@ dpsg-ebersberg
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:81
+#, php-format
+#@ dpsg-ebersberg
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/template-tags.php:87
+#, php-format
+#@ dpsg-ebersberg
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:94
+#@ dpsg-ebersberg
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:186
+#, php-format
+#@ dpsg-ebersberg
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Veröffentlicht am %1$s</span><span class=\"byline\"> von %2$s</span>"
+
+#: inc/template-tags.php:194
+#, php-format
+#@ dpsg-ebersberg
+msgid "View all posts by %s"
+msgstr "Alle Einträge von %s ansehen"
+
+#: no-results.php:13
+#@ dpsg-ebersberg
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:19
+#, php-format
+#@ dpsg-ebersberg
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:23
+#@ dpsg-ebersberg
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: no-results.php:28
+#@ dpsg-ebersberg
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: search.php:16
+#, php-format
+#@ dpsg-ebersberg
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: searchform.php:10
+#: searchform.php:11
+#@ dpsg-ebersberg
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:11
+#@ dpsg-ebersberg
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:13
+#@ dpsg-ebersberg
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:24
+#@ dpsg-ebersberg
+msgid "Meta"
+msgstr ""
+
+#: content-single.php:24
+#, php-format
+#@ dpsg-ebersberg
+msgid "| Tags: %2$s"
+msgstr "| Schlagworte: %2$s"
+
